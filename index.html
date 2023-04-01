@@ -2,12 +2,23 @@
 <html>
 <head>
   <title>Frames Test</title>
+  
+<SCRIPT LANGUAGE=JAVASCRIPT> 
+<!-- Hide script
+pdfArray = new Array("","2023_mar_19_eng_neumes.pdf")
+function setContent(pagenum){
+parent.content.document.location.href = pdfArray[pagenum]
+}
+// end hidden script -->
+
+</SCRIPT> 
 </head>
 
 <body>
-<iframe scrolling="yes" class="menu" src="Mar 19 2023 VESP_edit2.html" width="500" height="400"></iframe>
+<!--<iframe scrolling="yes" class="menu" src="Mar 19 2023 VESP_edit2.html" width="500" height="400"></iframe>-->
 <!--<iframe class="mainContent" src="Vespers7B_Brief.pdf"></iframe>-->
-<embed src="2023_mar_19_eng_neumes.pdf" width="500" height="400" type="application/pdf">
+<!--<embed src="2023_mar_19_eng_neumes.pdf" width="500" height="400" type="application/pdf">-->
+<A href="javascript:setContent(1)">Try it</A>
 </body>
 
 </html>
