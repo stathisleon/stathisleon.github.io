@@ -32,56 +32,72 @@
 <BR>
 
 <table border="1" style="width:70%;border:solid black;">
-  <tr><td colspan=5><center><B>Sunday Liturgy in 1st tone</B> </center></td></tr>
-  <tr><td></td><td colspan=2><b><center>Staff</center></b></td><td colspan=2><center><b>Neume</b></center></td></tr>
-  <!--<tr><td><b>1.</b><td><center><a href="">Kyrie Eleison</a></center></td><td><center><a href="">Lord Have Mercy</a></center></td><td><center><a href="">Kyrie Eleison</a></center></td><td><center><a href="">Lord Have Mercy</a></center></td></tr>-->
-
-<tr><td><b>As of Jan.31, 2026 </b><td colspan=2><center></center></td><td colspan=2><center><a href="litourgica-echos-protos-trisagion-gr-en.pdf">Thrice Holy Hymn</a></center></td></tr>
-<tr><td><b>As of Jan.31, 2026 </b><td colspan=2><center><a href="leitourgika_echos_01_gr_en_staff.pdf">Staff booklet</a></center></td><td colspan=2><center><a href="leitourgika_echos_01_gr_en_neume.pdf">Chanter's Booklet Draft</a></center></td></tr>
-<tr><td><b>As of Jan.31, 2026 </b><td colspan=2><center><a href="https://music.samonastery.org/Chrys/Finale%202003%20-%20%5B0660_It%20is%20truly%20right%20-%20Mode%201%20-%20Gregory.pdf">It is truly right</a></center></td><td colspan=2><center><a href="https://music.samonastery.org/Chrys/b0660_It%20is%20truly%20right%20-%20Mode%201%20-%20Gregory.pdf">It is truly right</a></center></td></tr>
-<tr><td><b>As of Jan.31, 2026 </b><td colspan=2><center></center></td><td colspan=2><center><a href="leitourgika_echos_01_aineite_nikolaidis_gr_neume.pdf">Communion Hymn</a></center></td></tr>
+   <tr>	<td colspan=3><center><B>Sunday Liturgy in 1st tone</B> </center><hr></td></tr>
+	<tr>	<td><center>Thrice Holy Hymn</center></td>
+		 	<td><center></center></td>
+		 	<td><center><a href="litourgica-echos-protos-trisagion-gr-en.pdf">neume</a></center></td>
+	</tr>
+	<tr>	<td><center>Booklet</center></td>
+			<td><center><a href="leitourgika_echos_01_gr_en_staff.pdf">staff</a></center></td>
+			<td><center><a href="leitourgika_echos_01_gr_en_neume.pdf">neume</a></center></td>
+	</tr>
+	<tr>	<td><center>It is truly right</center></td>
+			<td><center><a href="https://music.samonastery.org/Chrys/Finale%202003%20-%20%5B0660_It%20is%20truly%20right%20-%20Mode%201%20-%20Gregory.pdf">staff</a></center></td>
+			<td><center><a href="https://music.samonastery.org/Chrys/b0660_It%20is%20truly%20right%20-%20Mode%201%20-%20Gregory.pdf">neume</a></center></td>
+	</tr>
+	<tr>	<td><center>Communion Hymn</center></td>
+			<td><center></center></td>
+			<td><center><a href="leitourgika_echos_01_aineite_nikolaidis_gr_neume.pdf">neume</a></center></td>
+	</tr>
 </table>
 
 <BR>
 <BR>
 
 <table border="1" style="width:70%;border:solid black;">
-  <tr><td colspan=5><center><B>Divine Liturgy in Plagal of the 4th tone (8th tone)</B></center></td></tr>
-  <tr><td></td><td colspan=2><b><center>Staff</center></b></td><td colspan=2><center><b>Neume</b></center></td></tr>
-  <!--<tr><td><b>1.</b><td><center><a href="">Kyrie Eleison</a></center></td><td><center><a href="">Lord Have Mercy</a></center></td><td><center><a href="">Kyrie Eleison</a></center></td><td><center><a href="">Lord Have Mercy</a></center></td></tr>-->
-<tr><td><b>As of June 8, 2025 </b><td colspan=2><center><a href="choir_booklet_numbered_with_cover_2025_may.pdf">Choir Booklet</a></center></td><td colspan=2><center><a href="chant_booklet_numbered_2025_may17.pdf">Chanter's Booklet</a></center></td></tr>
-<tr><td><b>As of August 9, 2025 </b><td colspan=2><center><a href="AXION_ESTIN_PL04_PARLA_staff_EN.pdf">Megalynarion</a></center></td><td colspan=2><center><a href="https://music.samonastery.org/Chrys/b0800_It%20is%20truly%20right%20-%20Mode%208%20-%20Anastasios.pdf">Megalynarion</a></center></td></tr>
-<!--<tr><td><b>As of June 28, 2024 </b><td colspan=2><center><a href="choir_booklet_numbered_2024_jun28.pdf">Choir Booklet</a></center></td><td colspan=2><center><a href="chant_booklet_numbered_2024_jun28.pdf">Chanter's Booklet</a></center></td></tr>
-<!--<tr><td><b>As of March 4, 2025 </b><td colspan=2><center><a href="04_naou_apolytikion_Nicholaos_en_staff.pdf">Dismissal Hymn of St. Nicholas (English)</a></center></td><td colspan=2><center></center></td></tr>-->
-<!--<tr><td><b>As of March 4, 2025 </b><td colspan=2><center><a href="04_naou_apolytikion_Nicholaos_gr_staff.pdf">Dismissal Hymn of St. Nicholas (Greek)</a></center></td><td colspan=2><center><</center></td></tr>-->
-<!--<tr><td><b>As of March 4, 2025 </b><td colspan=2><center><a href="04_naou_apolytikion_nectarios_en_staff.pdf">Dismissal Hymn of St. Nektarios (English)</a></center></td><td colspan=2><center><</center></td></tr>-->
-<!--<tr><td><b>As of March 4, 2025 </b><td colspan=2><center><a href="04_naou_apolytikion_nectarios_gr_staff.pdf">Dismissal Hymn of St. Nektarios (Greek)</a></center></td><td colspan=2><center><</center></td></tr>-->
-<!--<tr><td><b>As of March 4, 2025 </b><td colspan=2><center><a href="07_cherubic_hymn_pl04_fokaeus_gr_staff_karaberopoulos.pdf">Cherubic Hymn (Greek) arranged by Karaberopoulos</a></center></td><td colspan=2><center><</center></td></tr>-->
-<!--<tr><td><b>As of March 4, 2025 </b><td colspan=2><center><a href="09_liturgica_PL04_staff.pdf">Anaphora (Greek) </a></center></td><td colspan=2><center></center></td></tr>-->
-<!--<tr><td>Only Begotten Son<td><center>Greek</center></td><td><center><a href="https://music.samonastery.org/Chrys/Finale%202003%20-%20%5B0250_Only-begotten%20Son.pdf">English</a></center></td><td><center>Greek</center></td><td><center><a href="https://music.samonastery.org/Chrys/b0250_Only-begotten%20Son.pdf">English</a></center></td></tr>-->
-<!--<tr><td>Apolytikion in Tone 4<td><center><a href="05_to_faidron_tis_anastaseos_staff.pdf">Greek</a></center></td><td><center><a href="05_when_the_women_disciples_staff.pdf">English</a></center></td><td><center><a href="05_to_faidron_ths_anastaseos_neume.pdf">Greek</a></center></td><td><center><a href="05_when_the_women_disciples.pdf">English</a></center></td></tr>-->
-<!--<tr><td>Apolytikion in Tone 8<td><center><a href="05_ex_ypsous_katilthes_staff.pdf">Greek</a></center></td><td><center><a href="05_from_on_high_did_you_descend_english_staff.pdf">English</a></center></td><td><center><a href="05_ex_ypsous_katilthes_neume.pdf">Greek</a></center></td><td><center><a href="05_from_on_high_did_you_descend_english_neume.pdf">English</a></center></td></tr>-->
+	<tr>	<td colspan=3><center><B>Sunday Liturgy in Plagal of the 4th tone (8th tone)</B></center><hr></td></tr>
+	<tr>	<td><center>Booklet</center></td>
+			<td><center><a href="choir_booklet_numbered_with_cover_2025_may.pdf">staff</a></center></td>
+			<td><center><a href="chant_booklet_numbered_2025_may17.pdf">neume</a></center></td>
+	</tr>
+	<tr>	<td><center>Megalynarion</center></td>
+			<td><center><a href="AXION_ESTIN_PL04_PARLA_staff_EN.pdf">staff</a></center></td>
+			<td><center><a href="https://music.samonastery.org/Chrys/b0800_It%20is%20truly%20right%20-%20Mode%208%20-%20Anastasios.pdf">neume</a></center></td>
+	</tr>
 </table>
 
 <BR>
 <BR>
 
 <table border="1" style="width:70%;border:solid black;">
-  <tr><td colspan=5><center><B><u>Christmas Liturgy</u> in 1st tone</B> </center></td></tr>
-  <tr><td></td><td colspan=2><b><center>Staff</center></b></td><td colspan=2><center><b>Neume</b></center></td></tr>
-  <!--<tr><td><b>1.</b><td><center><a href="">Kyrie Eleison</a></center></td><td><center><a href="">Lord Have Mercy</a></center></td><td><center><a href="">Kyrie Eleison</a></center></td><td><center><a href="">Lord Have Mercy</a></center></td></tr>-->
-<tr><td><b>As of Dec. 23, 2025 </b><td colspan=2><center><a href="2025_nativity_staff_draft_all.pdf">Choir Booklet Draft</a></center></td><td colspan=2><center><a href="2025_nativity_neume_all.pdf">Chanter's Booklet Draft</a></center></td></tr>
-<!--<tr><td><b>As of Dec. 13, 2025 </b><td colspan=2><center><a href="kavvada-en-staff.pdf">Doxology</a></center></td><td colspan=2><center><a href="2025_nativity_neume_doxology.pdf">Doxology</a></center></td></tr>-->
-<!--<tr><td><b>As of Dec. 13, 2025 </b><td colspan=2><center><a href="2025_nativity_staff_draft.pdf">Choir Booklet Draft</a></center></td><td colspan=2><center><a href="2025_nativity_neume_draft.pdf">Chanter's Booklet Draft</a></center></td></tr>-->
-<!--<tr><td><b>As of Nov. 22, 2025 </b><td colspan=2><center><a href="dec25_choir_booklet.pdf">Choir Booklet Draft</a></center></td><td colspan=2><center><a href="dec25_chanter_booklet.pdf">Chanter's Booklet Draft</a></center></td></tr>-->
+  	<tr>	<td colspan=3><center><B>Christmas Liturgy in 1st tone</B> </center><hr></td></tr>
+	<tr>	<td><center>Booklet</center></td>
+			<td><center><a href="2025_nativity_staff_draft_all.pdf">staff</a></center></td>
+			<td><center><a href="2025_nativity_neume_all.pdf">neume</a></center></td>
+	</tr>
 </table>
 
 <BR>
 <BR>
 
 <table border="1" style="width:70%;border:solid black;">
-  <tr><td colspan=5><center><B>Holy Great Friday Materials</B></center></td></tr>
-  <tr><td><b>As of April 15, 2025 </b><td colspan=2><center><a href="ChoirMaterials_HolyGreatFriday.pdf">Lamentations, Evlogitaria and Doxology</a></center></td><td colspan=2><center><!--<a href="chant_booklet_numbered_2024_jun28.pdf">Chanter's Booklet</a>--></center></td></tr>
+	<tr>	<td colspan=3><center><B>Holy and Great Week</B></center><hr></td></tr>
+	<tr>	<td><center>Lamentations, Evlogitaria and Doxology</center></td>
+			<td><center><a href="ChoirMaterials_HolyGreatFriday.pdf">staff</a></center></td>
+			<td><center><!--<a href="chant_booklet_numbered_2024_jun28.pdf">Chanter's Booklet</a>--></center></td>
+	</tr>
+	<tr>	<td><center>Troparion of Kassiane</center></td>
+			<td></td>
+			<td><center><a href="tuesday_evening_doxastikon_aposticha_annotations.pdf">neume</a></center></td>
+	</tr>
+  	<tr>	<td><center>Friday Matins (Thursday evening) Ainoi </center></td>
+			<td></td>  			
+  			<td><center><a href="p0257_ainoi_gr.pdf">neume</a></center></td>
+  	</tr>
+  	<tr>	<td><center>Friday Matins (Thursday evening) Aposticha</center></td>
+  			<td></td>
+  			<td><center><a href="p0265_aposticha__priggos_gr.pdf">neume</a></center></td>
+  	</tr>
 </table>
 
 <BR>
@@ -105,7 +121,7 @@
 
 <table border="1" style="width:70%;border:solid black;">
   <tr><td><center><B>Great Week</B></center></td></tr>
-  <tr><td><center><a href="tuesday_evening_doxastikon_aposticha_annotations.pdf">Troparion of Kassiane</a></center></td></tr>
+
 </table>
 
 <BR>
