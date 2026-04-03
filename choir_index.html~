@@ -173,7 +173,7 @@
 <table border="1" style="width:70%;border:solid black;">
   	<tr>	<td colspan=3><center><B>Pascha</B> </center><hr></td></tr>
 	<tr>	<td><center>Liturgy</center></td>
-			<td><center><!--<a href="pascha_2026_staff.pdf">staff</a>--></center></td>
+			<td><center><a href="paschal_liturgy_staff_all.pdf">staff</a></center></td>
 			<td><center><a href="paschal_liturgy_neume_all.pdf">neume</a></center></td>
 	</tr>
 	<!--<tr>	<td><center>Apolytikion</center></td>
