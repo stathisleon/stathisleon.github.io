@@ -105,10 +105,11 @@
 <BR>
 
 <table border="1" style="width:70%;border:solid black;">
-  	<tr>	<td colspan=3><center><B>Palm Sunday</B></center><hr></td></tr>
+  	<tr>	<td colspan=4><center><B>Palm Sunday</B></center><hr></td></tr>
 	<tr>	<td><center>Apolytikion and Kontakion</center></td>
 			<td><center><a href="https://music.samonastery.org/Triodion/Finale%202003%20-%20%5B6900%5D.pdf">staff</a></center></td>
 			<td><center><a href="https://music.samonastery.org/Triodion/b6900.pdf">neume</a></center></td>
+			<td></td>
 	</tr>
 	<!--<tr>	<td><center>Megalynarion</center></td>
 			<td><center><a href="https://music.samonastery.org/Chrys/Finale%202003%20-%20%5B0920_Palm%20Sunday.pdf">staff</a></center></td>
@@ -117,6 +118,12 @@
 	<tr>	<td><center>Communion Hymn</center></td>
 			<td><center><a href="https://music.samonastery.org/Chrys/Finale%202003%20-%20%5B1390_Palm%20Sunday.pdf">staff</a></center></td>
 			<td><center><a href="https://music.samonastery.org/Chrys/b1390_Palm%20Sunday.pdf">neume</a></center></td>
+			<td></td>
+	</tr>
+	<tr>	<td><center>Communion Hymn Π. Λαμπαδάριος</center></td>
+			<td><center><a href="https://music.samonastery.org/Chrys/Finale%202003%20-%20%5B1390_Palm%20Sunday.pdf">staff</a></center></td>
+			<td><center><a href="https://music.samonastery.org/Chrys/b1390_Palm%20Sunday.pdf">neume</a></center></td>
+			<td><center><a href="https://www.amazon.com/gp/video/detail/0IBRHXN7V5LE0WSARKW6FK555T/ref=atv_plr_landingpage_play">listen</a></center></td>			
 	</tr>
 </table>
 
