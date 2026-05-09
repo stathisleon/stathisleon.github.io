@@ -37,6 +37,43 @@
 <BR>
 
 <table border="1" style="width:70%;border:solid black;">
+   <tr>	<td colspan=4><center><B>Sunday Liturgy in Phrygios mode</B> </center><hr></td></tr>
+	<tr>	<td><center>Thrice Holy Hymn in 1st tone</center></td>
+		 	<td><center></center></td>
+		 	<td><center><a href="litourgica-echos-protos-trisagion-gr-en.pdf">neume</a></center></td>
+		 	<td><center></center></td>
+	</tr>
+	<tr>	<td><center>Cherubic Hymn</center></td>
+			<td><center><a href="leitourgika_echos_01_gr_en_staff.pdf">staff</a></center></td>
+			<td><center><a href="leitourgika_echos_01_gr_en_neume.pdf">neume</a></center></td>
+		 	<td><center></center></td>
+	</tr>
+	<tr>	<td><center>Anaphora (GR)</center></td>
+			<td><center></center></td>
+			<td><center><a href="phrygios_2026_may24_gr.pdf">neume</a></center></td>
+		 	<td><center></center></td>
+	</tr>
+   <tr>	<td><center>Anaphora (GR)</center></td>
+			<td><center></center></td>
+			<td><center><a href="phrygios_2026_may24_en.pdf">neume</a></center></td>
+		 	<td><center></center></td>
+	</tr>
+	<tr>	<td><center>It is truly right (1st tone)</center></td>
+			<td><center><a href="https://music.samonastery.org/Chrys/Finale%202003%20-%20%5B0660_It%20is%20truly%20right%20-%20Mode%201%20-%20Gregory.pdf">staff</a></center></td>
+			<td><center><a href="https://music.samonastery.org/Chrys/b0660_It%20is%20truly%20right%20-%20Mode%201%20-%20Gregory.pdf">neume</a></center></td>
+		 	<td><center></center></td>
+	</tr>
+	<tr>	<td><center>Communion Hymn (1st tone)</center></td>
+			<td><center></center></td>
+			<td><center><a href="leitourgika_echos_01_aineite_nikolaidis_gr_neume.pdf">neume</a></center></td>
+		 	<td><center></center></td>
+	</tr>
+</table>
+
+<BR>
+<BR>
+
+<table border="1" style="width:70%;border:solid black;">
    <tr>	<td colspan=3><center><B>Sunday Liturgy in 1st tone</B> </center><hr></td></tr>
 	<tr>	<td><center>Thrice Holy Hymn in 1st tone</center></td>
 		 	<td><center></center></td>
@@ -60,10 +97,14 @@
 <BR>
 
 <table border="1" style="width:70%;border:solid black;">
-   <tr>	<td colspan=3><center><B>Sunday Liturgy in 1st/Plagal of the 1st tone</B> </center><hr></td></tr>
+   <tr>	<td colspan=3><center><B>Sunday Liturgy in Plagal of the 1st tone</B> </center><hr></td></tr>
 	<tr>	<td><center>Thrice Holy Hymn in 1st tone</center></td>
 		 	<td><center></center></td>
 		 	<td><center><a href="litourgica-echos-protos-trisagion-gr-en.pdf">neume</a></center></td>
+	</tr>
+	<tr>	<td><center>Cherubic Hymn in Plagal of 1st tone (Pkokaeus)</center></td>
+		 	<td><center></center></td>
+		 	<td><center><a href="karaberopoulos_pl01_0372-0380_.pdf">neume</a></center></td>
 	</tr>
 	<tr>	<td><center>Anaphora</center></td>
 			<td><center></center></td>
