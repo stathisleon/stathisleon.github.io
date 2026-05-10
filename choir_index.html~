@@ -38,6 +38,26 @@
 
 <table border="1" style="width:70%;border:solid black;">
    <tr>	<td colspan=4><center><B>Sunday Liturgy in Phrygios mode (May 24)</B> </center><hr></td></tr>
+   <tr>	<td><center>ΔΟΞΑΣΤΙΚΟΝ of the Holy Fathers</center></td>
+			<td><center></center></td>
+			<td><center><a href="TON_AGION_PATERON_O_XOROS.pdf">neume</a></center></td>
+		 	<td><center></center></td>
+	</tr>
+	<tr>	<td><center>Both Now (DCS)</center></td>
+			<td><center><a href="https://dcs.goarch.org/media/m/dedes/en/ho/ho03/w/laudssuntheotokion.pdf">staff</a></center></td>
+			<td><center><a href="laudssuntheotokion.pdf">neume</a></center></td>
+		 	<td><center></center></td>
+	</tr>
+	<tr>	<td><center>Doxology in tone 8 <BR> (Alternating GR and EN from DCS) </center></td>
+			<td><center><a href="https://dcs.goarch.org/media/m/dedes/en/ho/ho03/w/doxologymode8.pdf">staff</a></center></td>
+			<td><center><a href="https://dcs.goarch.org/media/m/theodoridis/gr/ho/ho03/b/doxologymode8.pdf">GR</a> <BR> <a href="https://dcs.goarch.org/media/m/theodoridis/en/ho/ho03/b/doxologymode8.pdf">EN</a></center></td>
+		 	<td><center></center></td>
+	</tr>
+	<tr>	<td><center>Today Salvation (DCS)</center></td>
+			<td><center><a href="https://dcs.goarch.org/media/m/dedes/en/ho/ho03/w/suntroparion1mode8.pdf">staff</a></center></td>
+			<td><center><a href="https://dcs.goarch.org/media/m/theodoridis/en/ho/ho03/b/suntroparion1mode8.pdf">neume</a></center></td>
+		 	<td><center></center></td>
+	</tr>
 	<tr>	<td><center>Thrice Holy Hymn in 2nd tone</center></td>
 		 	<td><center></center></td>
 		 	<td><center><a href="thrice_holy_hymn_tone2.pdf">neume</a></center></td>
@@ -73,6 +93,49 @@
 			<td><center><a href="https://music.samonastery.org/Chrys/b1120_Sunday%20-%20Mode%201.pdf">neume</a></center></td>
 		 	<td><center></center></td>
 	</tr>
+</table>
+
+<BR>
+<BR>
+
+<table border="1" style="width:70%;border:solid black;">
+  <tr><td colspan=4><center><B>Hierarchical Services</B></center></td></tr>
+	<tr><td><center>Matins</center></td>
+		<td><center></center></td>
+		<td><center><a href="archieratika_matins.pdf">neume</a></center></td>
+		<td><center></center></td>			
+	</tr>
+	<tr><td><center>ΤΟΝ ΔΕΣΠΟΤΗΝ</center></td>
+		<td><center></center></td>
+		<td><center><a href="archieratika_matins_ton_thespotin.pdf">neume</a></center></td>
+		<td><center><a href="https://www.youtube.com/watch?v=JMpRXQmwY2Q&list=RDJMpRXQmwY2Q&start_radio=1">listen</a></center></td>			
+	</tr>
+	<tr><td><center>Small Entrance</center></td>
+		<td><center></center></td>
+		<td><center><a href="archieratika_small_entrance.pdf">neume</a></center></td>
+		<td><center></center></td>			
+	</tr>
+	<tr><td><center>Thrice Holy Hymn</center></td>
+		<td><center><a href="thrice_holy_hymn_B_tone.pdf">staff</a></center></td>
+		<td><center><a href="archieratika_thrice_holy_hymn.pdf">neume</a></center></td>
+		<td><center></center></td>			
+	</tr>
+	<tr><td><center>Thrice Holy Hymn - ΤΟΥ ΒΗΜΑΤΟΣ</center></td>
+		<td><center></center></td>
+		<td><center><a href="trisaghion_tou_bhmatos.pdf">neume</a></center></td>
+		<td><center></center></td>			
+	</tr>
+	<tr><td><center>Ordination Hymns (GR)</center></td>
+		<td><center></center></td>
+		<td><center><a href="ordination_hymns.pdf">neume</a></center></td>
+		<td><center></center></td>			
+	</tr>
+		<tr><td><center>Ordination Hymns (EN)</center></td>
+		<td><center><a href="ordination_hymns_en_staff.pdf">staff</a></center></td>
+		<td><center><a href="ordination_hymns_en.pdf">neume</a></center></td>
+		<td><center></center></td>			
+	</tr>
+
 </table>
 
 <BR>
@@ -128,48 +191,6 @@
 <BR>
 <BR>
 
-<table border="1" style="width:70%;border:solid black;">
-  <tr><td colspan=4><center><B>Hierarchical Services</B></center></td></tr>
-	<tr><td><center>Matins</center></td>
-		<td><center></center></td>
-		<td><center><a href="archieratika_matins.pdf">neume</a></center></td>
-		<td><center></center></td>			
-	</tr>
-	<tr><td><center>ΤΟΝ ΔΕΣΠΟΤΗΝ</center></td>
-		<td><center></center></td>
-		<td><center><a href="archieratika_matins_ton_thespotin.pdf">neume</a></center></td>
-		<td><center><a href="https://www.youtube.com/watch?v=JMpRXQmwY2Q&list=RDJMpRXQmwY2Q&start_radio=1">listen</a></center></td>			
-	</tr>
-	<tr><td><center>Small Entrance</center></td>
-		<td><center></center></td>
-		<td><center><a href="archieratika_small_entrance.pdf">neume</a></center></td>
-		<td><center></center></td>			
-	</tr>
-	<tr><td><center>Thrice Holy Hymn</center></td>
-		<td><center><a href="thrice_holy_hymn_B_tone.pdf">staff</a></center></td>
-		<td><center><a href="archieratika_thrice_holy_hymn.pdf">neume</a></center></td>
-		<td><center></center></td>			
-	</tr>
-	<tr><td><center>Thrice Holy Hymn - ΤΟΥ ΒΗΜΑΤΟΣ</center></td>
-		<td><center></center></td>
-		<td><center><a href="trisaghion_tou_bhmatos.pdf">neume</a></center></td>
-		<td><center></center></td>			
-	</tr>
-	<tr><td><center>Ordination Hymns (GR)</center></td>
-		<td><center></center></td>
-		<td><center><a href="ordination_hymns.pdf">neume</a></center></td>
-		<td><center></center></td>			
-	</tr>
-		<tr><td><center>Ordination Hymns (EN)</center></td>
-		<td><center><a href="ordination_hymns_en_staff.pdf">staff</a></center></td>
-		<td><center><a href="ordination_hymns_en.pdf">neume</a></center></td>
-		<td><center></center></td>			
-	</tr>
-
-</table>
-
-<BR>
-<BR>
 
 <table border="1" style="width:70%;border:solid black;">
 	<tr>	<td colspan=3><center><B>Sunday Liturgy in Plagal of the 4th tone (8th tone)</B></center><hr></td></tr>
